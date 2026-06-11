@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Page not found - Gerol Petruzella, Ph.D.">
+    <meta name="author" content="Gerol Petruzella">
+    <title>Page Not Found | Gerol Petruzella, Ph.D.</title>
+    <link rel="icon" type="image/png" href="./favicon.png">
+    <link href="./styles.css" rel="stylesheet">
+</head>
+<body>
+    <a href="#main" class="skip-link">Skip to main content</a>
+
+    <!-- Navigation -->
+    <nav class="nav" role="navigation">
+        <div class="nav-container">
+            <a href="index.html" class="nav-brand">Gerol Petruzella</a>
+            <button class="nav-toggle" aria-label="Toggle navigation" id="navToggle">
+                &#9776;
+            </button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="work.html" class="nav-link">Work</a></li>
+                <li><a href="mailto:gpetruzella@gmail.com" class="nav-link">Contact</a></li>
+            </ul>
+            <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+                <span id="themeIcon" aria-hidden="true"></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main id="main">
+        <section class="hero">
+            <div class="container-narrow">
+                <h1 class="hero-title">404</h1>
+                <p class="hero-subtitle">
+                    Alas. You search for what does not exist.
+                </p>
+                <p class="hero-meta">
+                    The page you're looking for can't be found. Try starting from the homepage or check the URL for typos.
+                </p>
+                <div class="btn-group">
+                    <a href="index.html" class="btn btn-primary">Go Home</a>
+                    <a href="work.html" class="btn btn-secondary">View Work</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p class="footer-personal">
+                Outside of work: hiking, kayaking, reading, cultivating blueberries, writing, dancing, biking, singing, cooking.
+            </p>
+            <div class="footer-links">
+                <a href="https://sites.williams.edu/gcp1" class="footer-link" target="_blank" rel="noopener">Williams Blog</a>
+                <a href="https://www.willinet.org/" class="footer-link" target="_blank" rel="noopener">WilliNet Board Service</a>
+                <a href="sitemap.xml" class="footer-link">Sitemap</a>
+                <a href="mailto:gpetruzella@gmail.com" class="footer-link">Email</a>
+            </div>
+            <p class="footer-copyright">
+                &copy; 2025 Gerol Petruzella. All rights reserved.
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        const themeToggle = document.getElementById('themeToggle');
+        const themeIcon = document.getElementById('themeIcon');
+        const html = document.documentElement;
+
+        const currentTheme = localStorage.getItem('theme') || 'dark';
+        html.setAttribute('data-theme', currentTheme);
+        themeIcon.textContent = currentTheme === 'dark' ? '\u25CB' : '\u25CF';
+
+        themeToggle.addEventListener('click', () => {
+            const theme = html.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', theme);
+            localStorage.setItem('theme', theme);
+            themeIcon.textContent = theme === 'dark' ? '\u25CB' : '\u25CF';
+        });
+
+        const navToggle = document.getElementById('navToggle');
+        const navLinks = document.getElementById('navLinks');
+
+        navToggle.addEventListener('click', () => {
+            navLinks.classList.toggle('active');
+        });
+
+        document.addEventListener('click', (e) => {
+            if (!navToggle.contains(e.target) && !navLinks.contains(e.target)) {
+                navLinks.classList.remove('active');
+            }
+        });
+    </script>
+</body>
+</html>

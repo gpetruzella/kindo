@@ -1,0 +1,51 @@
+# Gerol Petruzella - Philosopher-Technologist
+
+> AI Ethics Researcher, Academic Technology Consultant, and Speaker. Bridging PhD-level humanities research with 14+ years of technology experience to make AI ethics accessible and actionable.
+
+## Site Info
+- **URL**: https://kindo.dev/
+- **Work Portfolio**: https://kindo.dev/work.html
+- **Owner**: Gerol Petruzella, Ph.D.
+- **Focus**: AI Ethics, Ancient Philosophy, Generative AI Security, Academic Technology.
+
+## Profile & Credentials
+- **Role**: Philosopher-Technologist, Academic Technology Consultant at Williams College.
+- **Education**: Ph.D. in Philosophy (SUNY Buffalo, 2008), M.A. in Classics (SUNY Buffalo, 2005).
+- **Certifications**: CompTIA Network+ (2010), Google IT Support Pro (2020), Amateur Radio (KC1UCA).
+
+## Key Projects & Research
+
+### AI Ethics & Safety
+- **Humanity's Last Exam (2025)**: Co-author on a multi-modal LLM benchmark with The Center for AI Safety (CAIS). [arxiv](https://arxiv.org/abs/2501.14249)
+- **NIST-Sponsored Red-Teaming (2024)**: Participant in CAMLIS AI security exercises; co-authored evaluation report using NIST AI 600-1 framework. [humane-intelligence](https://humane-intelligence.org/get-involved/events/aria-nist-red-teaming/)
+- **Ethically Aligned Design v2 (2018)**: Member of the IEEE working group for standards prioritizing human well-being in autonomous systems. [ieee](https://standards.ieee.org/wp-content/uploads/import/documents/other/ec_bios.pdf)
+- **Autonomous Weapons Open Letter (2016)**: Signatory on the Future of Life Institute's open letter regarding AI governance. [futureoflife](https://futureoflife.org/open-letter/awos-signatories/)
+
+### Academic Publications
+- **The Testimony Problem (2025)**: In-progress monograph on epistemic challenges in AI moral status. [GitHub](http://gpetruzella.github.io/monograph.md)
+- **Durable Goods (2013)**: Book analyzing ancient Greek ethical concepts (*eudaimonia*, *makaria*). Published by Peter Lang Press. [PeterLangPublishing](https://www.peterlang.com/document/1051163)
+- **Death in Ancient Philosophy (2018)**: Chapter in *Lessons Drawn*, focusing on teaching philosophy through graphic novels (Neil Gaiman's *Sandman*). [McFarlandBooks](https://mcfarlandbooks.com/product/Lessons-Drawn/)
+- **Adequation in Aquinas (2006)**: Paper on Aristotle, Aquinas, and the convertibility of Truth and Being.
+
+### Technical Tools & Open Source
+- **EphAttend PWA (2025)**: Privacy-focused, local-only attendance PWA for college instructors. [GitHub](https://github.com/gpetruzella/ephattend)
+- **EphBot (2024)**: Kit for local GenAI experimentation using Raspberry Pi 5 and Mozilla Llamafile. (https://docs.google.com/presentation/d/1MHwo80ge2xu0dgaIXx-YMk6OI5yk_xIY7UP6MT-2_6M/edit?usp=sharing)
+- **The PiBrary Project (2024)**: Recipe for a hyper-local, emergency-resilient Apache webserver on Raspberry Pi. [Williams](https://sites.williams.edu/makerspace/projects/truly-local-internet-the-pibrary-project/)
+- **JS Accessibility Hack (2018)**: Critical Code Studies project to improve accessibility for StoryMapJS.
+
+## Speaking & Teaching
+
+### Selected Talks
+- **"Sure, Dave, I Can Do That!" (2025)**: Invited talk at IMA on financial risks of GenAI. [IMA](https://nerc.imanet.org/events/pastevents)
+- **Persuadable Machines (2025)**: Public talk on using classical rhetoric to bypass AI safety guardrails. [Williams](https://events.williams.edu/event/persuadable-machines-ethically-hacking-genai-with-rhetoric/)
+- **Berkshire State of Work Summit (2025)**: Panelist on "AI for All: Foundations of Artificial Intelligence".
+- **Conversational Computing (2024)**: Presentation at NERD Summit on HCI assumptions and GenAI. [NERDsummit](https://nerdsummit.org/#petruzella)
+
+### Courses
+- **Automata to AI (Williams College, 2025)**: Course analyzing ancient texts on agency and artificial entities. [Williams](https://catalog.williams.edu/PHIL/detail/?strm=1252&cn=15&crsid=022862)
+- **Are Robots Moral? (OLLI, 2024)**: Survey course on ethical issues in generative AI. [OLLI](https://berkshireolli.org/T106AreRobotsMoralSummer24)
+- **Dungeons & Discourse (2018)**: Hybrid gamified RPG philosophy curriculum. [JohnsHopkinsPress](https://www.press.jhu.edu/books/title/11548/game)
+
+## Contact
+- **Email**: gpetruzella@gmail.com
+- **Services**: Consulting on AI ethics, speaking engagements, educational workshops.

@@ -1,0 +1,25 @@
+# --- Firebase CLI binary (213 MB — must never be committed) ---
+firebase-tools-instant-win.exe
+*.exe
+
+# --- Secrets / credentials (never commit) ---
+*.token
+*-key.json
+serviceAccount*.json
+.firebase-deploy-token
+.env
+.env.*
+
+# --- Firebase local artifacts ---
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+ui-debug.log
+database-debug.log
+pubsub-debug.log
+
+# --- Debug logs (firebase CLI, pglite, etc.) ---
+*.log
+
+# --- Node / tooling ---
+node_modules
