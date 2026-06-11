@@ -1,4 +1,4 @@
-# --- Firebase CLI binary (213 MB — must never be committed) ---
+# --- Firebase CLI binary (213 MB - must never be committed) ---
 firebase-tools-instant-win.exe
 *.exe
 
@@ -22,4 +22,9 @@ pubsub-debug.log
 *.log
 
 # --- Node / tooling ---
-node_modules
+node_modules/
+npm-debug.log*
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
