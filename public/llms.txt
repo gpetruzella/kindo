@@ -36,6 +36,7 @@
 ## Speaking & Teaching
 
 ### Selected Talks
+- **Claude is my Webmaster (2026)**: Lightning talk at "Agentic AI in Higher Education IT", CLAC Mindshare Program (July 29, 2026), on agentic AI as a closed loop — the workflow maintaining kindo.dev from a Claude Project through GitHub Actions to Firebase Hosting — and the security questions raised by offloading work to an agent.
 - **"Sure, Dave, I Can Do That!" (2025)**: Invited talk at IMA on financial risks of GenAI. [IMA](https://nerc.imanet.org/events/pastevents)
 - **Persuadable Machines (2025)**: Public talk on using classical rhetoric to bypass AI safety guardrails. [Williams](https://events.williams.edu/event/persuadable-machines-ethically-hacking-genai-with-rhetoric/)
 - **Berkshire State of Work Summit (2025)**: Panelist on "AI for All: Foundations of Artificial Intelligence".
