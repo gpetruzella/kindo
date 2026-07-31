@@ -17,9 +17,6 @@
 
 ### AI Ethics & Safety
 - **Humanity's Last Exam (2025)**: Co-author on a multi-modal LLM benchmark with The Center for AI Safety (CAIS). [arxiv](https://arxiv.org/abs/2501.14249)
-- **NIST-Sponsored Red-Teaming (2024)**: Participant in CAMLIS AI security exercises; co-authored evaluation report using NIST AI 600-1 framework. [humane-intelligence](https://humane-intelligence.org/get-involved/events/aria-nist-red-teaming/)
-- **Ethically Aligned Design v2 (2018)**: Member of the IEEE working group for standards prioritizing human well-being in autonomous systems. [ieee](https://standards.ieee.org/wp-content/uploads/import/documents/other/ec_bios.pdf)
-- **Autonomous Weapons Open Letter (2016)**: Signatory on the Future of Life Institute's open letter regarding AI governance. [futureoflife](https://futureoflife.org/open-letter/awos-signatories/)
 
 ### Academic Publications
 - **The Testimony Problem (2025)**: In-progress monograph on epistemic challenges in AI moral status. [GitHub](http://gpetruzella.github.io/monograph.md)
@@ -35,17 +32,29 @@
 
 ## Speaking & Teaching
 
-### Selected Talks
+### Talks & Panels
 - **Claude is my Webmaster (2026)**: Lightning talk at "Agentic AI in Higher Education IT", CLAC Mindshare Program (July 29, 2026), on agentic AI as a closed loop — the workflow maintaining kindo.dev from a Claude Project through GitHub Actions to Firebase Hosting — and the security questions raised by offloading work to an agent.
+- **From Epistemics to Practice: AI Self-Reports (2026)**: Invited talk in the Bennington Center for Artificial Intelligence speaker series, on the epistemic challenges of AI self-reports. [bennington](https://bennington.ai/events/petruzella-speakers-series/)
+- **Berkshire State of Work Summit (2025)**: Expert panelist on "AI for All: Foundations of Artificial Intelligence". [BerkshireCC](https://www.berkshirecc.edu/academics/community-education-and-workforce-development/workforce/summit.php)
 - **"Sure, Dave, I Can Do That!" (2025)**: Invited talk at IMA on financial risks of GenAI. [IMA](https://nerc.imanet.org/events/pastevents)
 - **Persuadable Machines (2025)**: Public talk on using classical rhetoric to bypass AI safety guardrails. [Williams](https://events.williams.edu/event/persuadable-machines-ethically-hacking-genai-with-rhetoric/)
-- **Berkshire State of Work Summit (2025)**: Panelist on "AI for All: Foundations of Artificial Intelligence".
 - **Conversational Computing (2024)**: Presentation at NERD Summit on HCI assumptions and GenAI. [NERDsummit](https://nerdsummit.org/#petruzella)
+- **Transformative Tech (2020)**: Invited speaker at the Osher Lifelong Learning Institute series on technology and its social impacts. [YouTube](https://www.youtube.com/watch?v=AcPq7XXVzPg&t=2205s)
+
+### Media
+- **Morning Drive: AI Ethics (2025)**: Invited guest on WTBR FM, Pittsfield Community Radio; hour-long discussion on generative AI ethics and implications. [PittsfieldTV](https://pittsfieldtv.org/program/?id=54998)
+- **Rapid Research Segment (2018)**: Interview on the "John Krol Show" discussing AI ethics research at MCLA. [Facebook](https://www.facebook.com/JohnKrolShow/videos/mcla-rapid-research-dr-gerol-petruzella/725284911189048/)
 
 ### Courses
 - **Automata to AI (Williams College, 2025)**: Course analyzing ancient texts on agency and artificial entities. [Williams](https://catalog.williams.edu/PHIL/detail/?strm=1252&cn=15&crsid=022862)
 - **Are Robots Moral? (OLLI, 2024)**: Survey course on ethical issues in generative AI. [OLLI](https://berkshireolli.org/T106AreRobotsMoralSummer24)
 - **Dungeons & Discourse (2018)**: Hybrid gamified RPG philosophy curriculum. [JohnsHopkinsPress](https://www.press.jhu.edu/books/title/11548/game)
+
+## Service & Affiliations
+- **Human-AI Co-Authorship Position (2025)**: Position statement committing to "holding open" questions of AI authorship rather than foreclosing them; argues for epistemic humility, radical transparency, and practices proportioned to genuine uncertainty about AI cognition.
+- **NIST-Sponsored Red-Teaming (2024)**: Participant in CAMLIS AI security exercises; co-authored evaluation report using NIST AI 600-1 framework. [humane-intelligence](https://humane-intelligence.org/get-involved/events/aria-nist-red-teaming/)
+- **Ethically Aligned Design v2 (2018)**: Member of the IEEE working group for standards prioritizing human well-being in autonomous systems. [ieee](https://standards.ieee.org/wp-content/uploads/import/documents/other/ec_bios.pdf)
+- **Autonomous Weapons Open Letter (2016)**: Signatory on the Future of Life Institute's open letter regarding AI governance. [futureoflife](https://futureoflife.org/open-letter/awos-signatories/)
 
 ## Contact
 - **Email**: gpetruzella@gmail.com
