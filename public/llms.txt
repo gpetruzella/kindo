@@ -42,6 +42,7 @@
 - **Transformative Tech (2020)**: Invited speaker at the Osher Lifelong Learning Institute series on technology and its social impacts. [YouTube](https://www.youtube.com/watch?v=AcPq7XXVzPg&t=2205s)
 
 ### Media
+- **North Adams AI Ordinance (2026)**: Quoted in *The Berkshire Eagle* on North Adams' consideration of one of Massachusetts' most comprehensive municipal AI policies, on transparency in municipal AI registries and the enforcement challenges ahead. [BerkshireEagle](https://www.berkshireeagle.com/news/northern_berkshires/north-adams-ai-ordinance/article_e871fdca-234f-4a61-8dd8-7844f4e81fad.html)
 - **Morning Drive: AI Ethics (2025)**: Invited guest on WTBR FM, Pittsfield Community Radio; hour-long discussion on generative AI ethics and implications. [PittsfieldTV](https://pittsfieldtv.org/program/?id=54998)
 - **Rapid Research Segment (2018)**: Interview on the "John Krol Show" discussing AI ethics research at MCLA. [Facebook](https://www.facebook.com/JohnKrolShow/videos/mcla-rapid-research-dr-gerol-petruzella/725284911189048/)
 
